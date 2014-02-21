@@ -2,7 +2,7 @@
 Global Playground
 
 ## Authors
-- Insert main author name, surname, github account
+- Elite Sher, https://github.com/elitesher
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
@@ -31,7 +31,9 @@ function test() {
 ```
 ## Links to External Libraries
  NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-
+ 
+ These links will be updated continually
+ 
 [Example Link](http://www.google.com "Example Link")
 
 ## Images & Videos
