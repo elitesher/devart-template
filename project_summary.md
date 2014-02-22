@@ -8,7 +8,7 @@ Global Playground
 ## Description
 'Global Playground' is an interactive sandBox, where local and distant users can play and interact.
 
-Imagine a sandbox with hills and vallies, mountains and lakes.
+Imagine a sandbox with hills and valleys, mountains and lakes.
 
 Virtual beings inhabit the different environments. Like in real life, each of them can only live in certain environments: some under the water, others on the hill top. 
 Global Playground is a real sandBox on which different terrains are projected, following the sand shape. The virtual entities are projected on the sand as well. They react and interact with their environment and with each other. 
