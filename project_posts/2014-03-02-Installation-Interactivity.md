@@ -15,23 +15,24 @@ Also, as Global Playground is all about the interaction between Local and Global
 
 Here are few diagrams showing the idea of interaction: 
 
-1.	The world map, projected on the send, when there are no distant users (the whole map is 'turned of')
+1 The world map, projected on the send, when there are no distant users (the whole map is 'turned of')
+
 
 ![1 Image](../project_images/1.jpg?raw=true "1")
 
-2.	The local users can create different terrains in the water areas
+2	The local users can create different terrains in the water areas
 
 ![2 Image](../project_images/2.jpg?raw=true "2")
 
-3.	Distant users are watching the installation - hence 'their countries' are 'turned on'
+3 Distant users are watching the installation - hence 'their countries' are 'turned on'
 
 ![3 Image](../project_images/3.jpg?raw=true "3")
 
-4.	Users can now create different terrains in the lands areas as well.
+4	Users can now create different terrains in the lands areas as well.
 
 ![4 Image](../project_images/4.jpg?raw=true "4")
 
-5.	This image demonstrates the virtual creatures appearence and interactivity on the projected map. The creatures will move and react דimultaneously and dynamically to the users interaction - so it will constantly change.
+5	This image demonstrates the virtual creatures appearence and interactivity on the projected map. The creatures will move and react דimultaneously and dynamically to the users interaction - so it will constantly change.
 In the example here you can see that different creatures live in different environments. They also will change their behaviour (more details to come in next posts!)
 
 ![creatures 1 Image](../project_images/creatures 1.jpg?raw=true "creatures 1")
