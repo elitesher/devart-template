@@ -41,7 +41,7 @@ NOTE: For additional images you can either use a relative link to an image on th
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
 
-![Example Image](project_images/prototype image.jpg?raw=true "Example Image")
+![Example Image](project_images/Cover example.jpg?raw=true "Example Image")
 
 
 http://vimeo.com/88235744?utm_source=email&utm_medium=clip-transcode_complete-finished-20120100&utm_campaign=7701&email_id=Y2xpcF90cmFuc2NvZGVkfGIxZjI0MWVlYWI4ZTk5M2NiZmVhZjYwMDNiODhjYTIwMTAwMHwyNTM4ODkzOXwxMzk0MDE1MTE3fDc3MDE%3D
