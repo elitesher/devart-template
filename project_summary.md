@@ -34,12 +34,14 @@ function test() {
  
  These links will be updated continually
  
-[Example Link](http://www.google.com "Example Link")
+[Unfolding library Link](http://unfoldingmaps.org/ "Unfolding library Link")
 
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
+
+![Example Image](project_images/prototype image.jpg?raw=true "Example Image")
 
 
 http://vimeo.com/88235744?utm_source=email&utm_medium=clip-transcode_complete-finished-20120100&utm_campaign=7701&email_id=Y2xpcF90cmFuc2NvZGVkfGIxZjI0MWVlYWI4ZTk5M2NiZmVhZjYwMDNiODhjYTIwMTAwMHwyNTM4ODkzOXwxMzk0MDE1MTE3fDc3MDE%3D
