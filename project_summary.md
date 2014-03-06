@@ -11,9 +11,9 @@ Global Playground
 Imagine a sandbox with hills and valleys, mountains and lakes.
 
 Virtual beings inhabit the different environments. Like in real life, each of them can only live in certain environments: some under the water, others on the hill top. 
-Global Playground is a real sandBox on which different terrains are projected, following the sand shape. The virtual entities are projected on the sand as well. They react and interact with their environment and with each other. 
+Global Playground is a real sandBox. But this time, the players are from all around the world!. Local and Distant users will be able to watch the installation simultaneously by sharing a live video channel (ChromeWebLab / YouTube channel event). They will also be able to change and affect the environment. By doing so - they control the living populations in the sandbox.
 
-Local and Distant users will be able to watch the installation simultaneously by sharing a live video channel (ChromeWebLab).They will also be able to change and affect the environment. By doing so - they control the living populations in the sandbox.
+On the sand, different terrains are projected, following the sand shape. The world map (by GOOGLE maps) is projected as well, and resembles the location of the local and distant players. The virtual entities are projected on the sand and react and interact with the map, the terrains the players and with each other. 
 
 Together, they all form the Global Playground - an environment that offers Symbiotic relationships between the physical and the virtual, the near and the far.
 
