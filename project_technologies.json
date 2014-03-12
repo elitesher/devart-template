@@ -4,8 +4,8 @@
             "youtube api"
         ],
         "platforms": [
-            "processing"
-            "kinect"
+            "processing",
+            "kinect",
             "maps"
         ],
         "toolkits": [
