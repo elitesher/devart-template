@@ -6,7 +6,9 @@
         "platforms": [
             "processing",
             "kinect",
-            "maps"
+            "maps"ת
+            "unfolding",
+            "google maps"
         ],
         "toolkits": [
             "insert toolkits"
