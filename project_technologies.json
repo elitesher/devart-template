@@ -13,6 +13,8 @@
         ]
     },
     "themes": [
-        "insert themes"
+        "playground",
+        "global",
+        "interactive"
     ]
 }
