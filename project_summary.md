@@ -27,7 +27,6 @@ NOTE: If your project lives online you can add one or more links here. Make sure
 
 ```
 void setup () {
-
 map = new UnfoldingMap (this, new Google.GoogleMapProvider());
 MapUtils.createDefaultEventDispatcher(this, map);
 List countries = GeoJSONReader.loadData(this, "countries.geo.json");
