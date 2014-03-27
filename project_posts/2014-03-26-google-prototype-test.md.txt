@@ -1,3 +1,10 @@
-This is the video from the test of my 'prototype installation'. It aimed to test the interactivity with the sand, the projection, the mapping of the terrains and the virtual creatures 'reaction' to all of these.
+I've tested the interaction of the virtual 'vreatures' with the world map (supplied by google maps via the 'Unfolding' library).
 
-http://vimeo.com/88198341?utm_source=email&utm_medium=clip-transcode_complete-finished-20120100&utm_campaign=7701&email_id=Y2xpcF90cmFuc2NvZGVkfDY2ZTA3YjIwZTU3MGU3MTQxYmE3MzI5MDk0NDllMWMyOTF8MjUzODg5Mzl8MTM5Mzk3MjE4N3w3NzAx
+https://vimeo.com/90173086?utm_source=email&utm_medium=clip-transcode_complete-finished-20120100&utm_campaign=7701&email_id=Y2xpcF90cmFuc2NvZGVkfGJjODY0MTc3MzI4NDQ2MTYxMDlhZGQ1MmRiNmQ2ZTQzMzM5fDI1Mzg4OTM5fDEzOTU4NzczNjZ8NzcwMQ%3D%3D
+
+At this test, by mouse click you can activate and deactivate areas (countries / continents) resembling distant users. 
+In the installation I plan to get these areas activated by distant users that will log in to the installation - by watching it vai YouTube / ChromeWebLab.
+The creatures can live only in the sea surface and in activated countries. Everytime a country is activated, new population of 'creatures' is 'born' and added to the playground.
+This is to be combined with the other video that I've previously posted, testing the different behaviours of the virtual entities (different species that can move differently in every area, can eat, breed or die).
+The combination with the terrain will be achieved by projecting the Google map on a surface of sand (the physical playground) and get the creatures to interact according to the map projected and the physical terrain.
+
