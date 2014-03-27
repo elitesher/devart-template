@@ -3,7 +3,6 @@ Global Playground
 
 ## Authors
 - Elite Sher, https://github.com/elitesher
-- Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
 'Global Playground' is an interactive sandBox, where local and distant users can play and interact.
