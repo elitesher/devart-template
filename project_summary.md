@@ -19,7 +19,9 @@ Together, they all form the Global Playground - an environment that offers Symbi
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
-[Example Link](http://www.google.com "Example Link")
+[Example Link](https://vimeo.com/90173086?utm_source=email&utm_medium=clip-transcode_complete-finished-20120100&utm_campaign=7701&email_id=Y2xpcF90cmFuc2NvZGVkfGJjODY0MTc3MzI4NDQ2MTYxMDlhZGQ1MmRiNmQ2ZTQzMzM5fDI1Mzg4OTM5fDEzOTU4NzczNjZ8NzcwMQ%3D%3D "Example Link")
+
+[Example Link](http://vimeo.com/88198341?utm_source=email&utm_medium=clip-transcode_complete-finished-20120100&utm_campaign=7701&email_id=Y2xpcF90cmFuc2NvZGVkfDY2ZTA3YjIwZTU3MGU3MTQxYmE3MzI5MDk0NDllMWMyOTF8MjUzODg5Mzl8MTM5Mzk3MjE4N3w3NzAx "Example Link")
 
 ## Example Code
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
