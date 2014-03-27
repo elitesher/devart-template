@@ -24,12 +24,38 @@ NOTE: If your project lives online you can add one or more links here. Make sure
 [Prototype testing](http://vimeo.com/88198341?utm_source=email&utm_medium=clip-transcode_complete-finished-20120100&utm_campaign=7701&email_id=Y2xpcF90cmFuc2NvZGVkfDY2ZTA3YjIwZTU3MGU3MTQxYmE3MzI5MDk0NDllMWMyOTF8MjUzODg5Mzl8MTM5Mzk3MjE4N3w3NzAx "Prototype testing")
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
+
 ```
-function test() {
-  console.log("Printing a test");
+void setup () {
+
+map = new UnfoldingMap (this, new Google.GoogleMapProvider());
+MapUtils.createDefaultEventDispatcher(this, map);
+List countries = GeoJSONReader.loadData(this, "countries.geo.json");
+List countryMarkers = MapUtils.createSimpleMarkers(countries);
+map.addMarkers(countryMarkers);
+
+setupKinect ();
+createTerrain ();
+createCrestures ();
+}
+
+void draw () {
+  context.update();
+  updateTerrain();
+  runCreatures (creature1);
+  runCreatures (creature2);
+  runCreatures (creature3);
+}
+
+function runCreatures(ArrayList <creature> creatures) {
+checkCollisionTerrain (); //checks the location of the creature on the terrain
+checkMap (); //check if you are in the ocean or a country
+behaviour = decideCreatureBehaviour (); //according to the location on the terrain, the creature will behave
+runCreature (behaviour);
 }
 ```
+
+
 ## Links to External Libraries
  NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
  
